@@ -22,7 +22,7 @@ O objetivo principal é facilitar a organização e consulta de grandes volumes 
 ### Tecnologias e Ferramentas Utilizadas
 - **Backend:** Python (FastAPI), Uvicorn, NetworkX, Flask-CORS
 - **Frontend:** React.js, Axios, Vis-Network, React-Dropzone
-- **Outras Ferramentas:** Postman (para testes de API), VS Code (desenvolvimento)
+- **Desenvolvimento:** VS Code 
 
 ### Descrição Sintética das Tarefas
 - **Configuração do ambiente:** Instalação de bibliotecas e criação da estrutura do projeto.
@@ -35,7 +35,7 @@ O objetivo principal é facilitar a organização e consulta de grandes volumes 
 ---
 
 ## 4. Contributos Individuais
-Como este projeto foi realizado individualmente, todas as tarefas foram executadas por mim, **Artur Ribeiro**. No entanto, algumas etapas foram otimizadas com o apoio de **IA**, incluindo:
+Como este projeto foi realizado individualmente, todas as tarefas foram executadas por mim. No entanto, algumas etapas foram otimizadas com o apoio de **IA**, incluindo:
 - **Pesquisa sobre o Graph Rag da Microsoft** – Utilização de IA para entender o funcionamento do serviço e explorar alternativas de indexação.
 - **Correção de erros e debugging** – Identificação e resolução de problemas em Axios, FastAPI e integração frontend-backend.
 - **Otimização do código** – Sugestões de melhorias para estruturação e organização do código em Python e React.
@@ -61,7 +61,6 @@ Como este projeto foi realizado individualmente, todas as tarefas foram executad
 ### Dificuldades Encontradas
 - Configuração inicial do **CORS** no backend FastAPI.
 - Conexão entre frontend (**React**) e backend (**FastAPI**), devido a erros de portas e permissões de acesso.
-- Manipulação de grafos com a biblioteca **NetworkX**.
 
 ### Aprendizagens e Evolução
 - Melhor compreensão de **FastAPI** e sua interação com o React.
@@ -95,4 +94,4 @@ O projeto está **funcional**, permitindo:
 ---
 
 ## Observações Finais
-Este micro-relatório sintetiza a organização e desenvolvimento do projeto **Graph Rag Web Viewer**, descrevendo como foi estruturado, as dificuldades encontradas e as aprendizagens obtidas. A experiência adquirida com **FastAPI, React e manipulação de grafos** foi extremamente valiosa e reforçou conceitos essenciais de desenvolvimento web. 🚀
+Este micro-relatório sintetiza a organização e desenvolvimento do projeto **Graph Rag Web Viewer**, descrevendo como foi estruturado, as dificuldades encontradas e as aprendizagens obtidas. A experiência adquirida com **FastAPI, React e manipulação de grafos** foi extremamente valiosa e reforçou conceitos essenciais de desenvolvimento web. 
